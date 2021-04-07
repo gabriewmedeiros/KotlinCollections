@@ -4,7 +4,7 @@ package com.example.estudocollections
         val  nomes = Array(3) {""}
         nomes[0] = "Elena"
         nomes[1] = "Clara"
-        nomes[2] = "Fernando"
+        nomes[2] = "Fernanda"
        
         for (nome in nomes) {
             println(nome)
